@@ -1,7 +1,8 @@
-## Bundle Webpack - Lab Opcional - Lemoncode
+## Bundle Webpack - Lab Bonus - Lemoncode
 
-Bundle creado desde cero en Webpack incluyendo las siguientes caracteristicas:
+Bundle semilla creado desde cero en Webpack incluyendo las siguientes caracteristicas:
 
+- Cloud Firestore de Firebase.
 - Servidor Web local con hot-reload.
 - Generación de carpeta de producción con subcarpetas de recursos css y js por separado.
 - Soporte con Sass.
@@ -12,4 +13,4 @@ Bundle creado desde cero en Webpack incluyendo las siguientes caracteristicas:
 - Variables de entorno para diferentes entornos (desarrollo y producción).
 - Configuración de analizador para medir cuanto ocupa cada librería y nuestro código en el bundle.
 
-El ejemplo de código muestra una texto desarrollado con React estilizado con Sass.
+El ejemplo de código muestra un texto estático "Hello" y obtiene desde Firestore el String "Lemoncode" de una colección existente en base de datos.
