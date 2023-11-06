@@ -1,4 +1,4 @@
-## Bundle Webpack - Lab Bonus - Lemoncode
+## Bundle Webpack
 
 Bundle semilla creado desde cero en Webpack incluyendo las siguientes caracteristicas:
 
